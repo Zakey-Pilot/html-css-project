@@ -4,29 +4,16 @@ Some boundaries around our project.
 
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over.
-  These may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+- The deadline.
+- Using Agile methodology.
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over.
-  They may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- One team member will be unavailable from Sunday to Thursday between 6:00 AM
+  and 6:00 PM.
+- One of the team is beginner-level at HTML and CSS.
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- The code matches the design style.
+- Time is up 12 hours contain planning, design, and development.
