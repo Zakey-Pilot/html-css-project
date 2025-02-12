@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "@ls-lint/ls-lint": "^2.0.0",
-    "accessibility-checker": "^3.1.48",
+    "accessibility-checker": "^4.0.0",
     "cspell": "^6.31.1",
     "html-validate": "^7.18.0",
     "markdownlint-cli": "^0.34.0",
