@@ -1,4 +1,5 @@
 @import url("./something.css");
+
 .centered-items {
   display: flex;
   flex-direction: row;
@@ -11,6 +12,7 @@
   width: 5%;
   height: 5%;
 }
+
 .interesting-things {
   list-style-type: square;
 }
