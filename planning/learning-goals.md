@@ -9,4 +9,6 @@
 
 ## Individual Learning Goals
 
-### Person 1
+### Mohammed Shuqair
+
+- improve my skills in html and css
