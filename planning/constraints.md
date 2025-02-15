@@ -4,7 +4,7 @@ Some boundaries around our project.
 
 ## External
 
-- The deadline.
+- The deadline (15/12/2025).
 - Using Agile methodology.
 
 ## Internal: Involuntary
