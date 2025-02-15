@@ -47,6 +47,10 @@
   padding-bottom: 2%;
 }
 
+.top-divider {
+  border-style: solid none none;
+}
+
 @keyframes bounce {
   0%,
   20%,
@@ -66,10 +70,4 @@
 
 .bouncy-img:hover {
   animation: bounce 1s;
-.top-divider {
-  border-style: solid none none;
-}
-
-.top-divider {
-  border-style: solid none none;
 }
