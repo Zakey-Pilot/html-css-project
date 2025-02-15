@@ -1,11 +1,11 @@
-# All About Trees
+# [All About Trees](#all-about-trees)
 
 > A straightforward landing page that provides comprehensive information about
 > trees with helpful resources.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](#all-about-trees)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
